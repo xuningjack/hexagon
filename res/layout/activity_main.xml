@@ -1,0 +1,147 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.example.widget.SpecailView
+        android:id="@+id/specail_view"
+        android:layout_width="match_parent"
+        android:layout_height="400dip"
+        android:background="#78675645" >
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼0"/>
+
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼1"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼2"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼3"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼4"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼5"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼6"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼7"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼8"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼9"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼10"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼11"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼12"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼13"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼14"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼15"/>
+
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼16"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼17"/>
+        
+        <com.example.widget.SpecailButton 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/logo"
+            android:gravity="center"
+            android:text="婚礼18"/>
+
+    </com.example.widget.SpecailView>
+
+</RelativeLayout>
